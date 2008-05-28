@@ -3,7 +3,7 @@ Name: x11-driver-video-suncg3
 Version: 1.1.0
 Release: %mkrel 4
 Summary: X.org driver for sun cg3 Cards
-Group: Development/X11
+Group: System/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/driver/xf86-video-suncg3-%{version}.tar.bz2
 License: MIT
